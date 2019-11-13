@@ -4,8 +4,9 @@ Wegue [1] ist eine Software zum Erstellen von modernen leichtgewichtigen WebGIS-
 
 Wegue verknüpft diese beiden Bibliotheken zu einer konfigurierbaren Vorlage für WebGIS-Anwendungen aller Art und stellt wiederverwendbare UI-Komponenten (z.B. Layer-Liste, FeatureInfo-Dialog, etc.) bereit.
 
-Wegue wurde auf der FOSSGIS 2018 in Bonn präsentiert. Mittlerweile ist das Projekt gereift und in einigen Realweltprojekten zum Einsatz gekommen. Dabei ist es an vielen Stellen erweitert und verbessert worden und befindet sich aktuell auf dem Weg zur Version 1.0.
-Der Vortrag präsentiert die Neuerungen der letzten Monate und zeigt wie Wegue-Anwendungen erstellt werden können. Außerdem werden einige Beispiel aus der Praxis präsentiert werden.
+Wegue wurde kurz nach der Projektgründung auf der FOSSGIS 2018 in Bonn präsentiert. Mittlerweile ist das Projekt gereift und in einigen Realweltprojekten zum Einsatz gekommen. Dabei ist es an vielen Stellen erweitert und verbessert worden und befindet sich aktuell auf dem Weg zur Version 1.0.
+
+Der Vortrag gibt einen kurzen Überblick über das Wegue-Ökosystem sowie die Neuerungen der letzten Monate und zeigt wie Wegue-Anwendungen erstellt werden können. Außerdem werden einige Beispiele aus der Praxis präsentiert.
 
 [1] https://github.com/meggsimum/wegue
 
