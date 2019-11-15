@@ -1,13 +1,13 @@
 
 # State of GeoExt
 
-Das GeoExt [1] ist eine Javascript Bibliothek, welche die Fähigkeiten der
+GeoExt [1] ist eine Javascript Bibliothek, welche die Fähigkeiten der
 Open Source Projekte OpenLayers [2] und ExtJS [3] kombiniert, um anspruchsvolle
 WebGIS-Applikationen zu erstellen.
 
-GeoExt existiert seit 2009 und ist damit - zumindest für JavaScript-Bibliotheken -
-fast schon ein Urgestein. Dennoch wird es stetig weiterentwickelt und entgegen aller
-Abgesänge immer noch präsent und ein zuverlässiger Baustein für die Entwicklung
+GeoExt existiert bereits seit 2009 und ist damit — zumindest für JavaScript-Bibliotheken —
+fast schon ein Urgestein. Dennoch wird es stetig weiterentwickelt und ist immer noch präsent
+in Applikationen sowie weiteren Bibliotheken und damit ein zuverlässiger Baustein für die Entwicklung
 UI-zentrierter WebGIS-Lösungen. Erst kürzlich wurde GeoExt ein OSGeo Community Projekt [4]
 und die Aktivität der Community konnte gesteigert werden.
 
