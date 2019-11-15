@@ -28,3 +28,7 @@ Quellcode auf github: https://github.com/geostyler/geostyler
 Online-Dokumentation: https://geostyler.github.io/geostyler/latest/index.html
 
 Demo: https://www.geostyler.org
+
+## Status
+  - Eingereicht: Ja
+  - Angenommen: Nein

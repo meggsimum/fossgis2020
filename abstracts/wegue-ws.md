@@ -14,5 +14,5 @@ Außerdem wird die Bereitstellung von Wegue mittels Docker gezeigt.
 [3] https://vuejs.org/
 
 ## Status
-  - Eingereicht: Nein
+  - Eingereicht: Ja
   - Angenommen: Nein
