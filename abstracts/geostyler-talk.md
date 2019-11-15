@@ -21,8 +21,7 @@ Aktuell werden im GeoStyler folgende Formate unterstützt:
   - OGC WFS
   - Shapefile
 
-Auf der FOSSGIS 2019 wurde das GeoStyler Projekt bereits präsentiert. In diesem Jahr sollen die Neuerungen des letzten Jahres anhand aktueller Beispiele, in denen der GeoStyler zum Einsatz kommt, präsentiert werden. Beispielsweise die GeoStyler GeoServer Extension, die es erlaubt die Stile der GeoServer Layer direkt im GeoServer mittels graphischer Oberfläche zu editieren. Außerdem wird einen Überblick über zukünftige Entwicklungen im Projekt gegeben.
-
+Auf der FOSSGIS 2019 wurde das GeoStyler Projekt bereits präsentiert. In diesem Jahr sollen die Neuerungen des letzten Jahres anhand aktueller Beispiele, in denen der GeoStyler zum Einsatz kommt, präsentiert werden. Dazu gehört die u. a. die GeoStyler GeoServer Extension, die es erlaubt die Stile der GeoServer Layer direkt im GeoServer mittels graphischer Oberfläche zu editieren. Außerdem wird es einen Überblick über zukünftige Entwicklungen im Projekt gegeben.
 
 Quellcode auf github: https://github.com/geostyler/geostyler
 
