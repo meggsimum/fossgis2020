@@ -4,7 +4,7 @@ Wegue [1] ist eine Software zum Erstellen von modernen leichtgewichtigen WebGIS-
 
 Wegue verknüpft diese beiden Bibliotheken zu einer konfigurierbaren Vorlage für WebGIS-Anwendungen aller Art und stellt wiederverwendbare UI-Komponenten (z.B. Layer-Liste, FeatureInfo-Dialog, etc.) bereit.
 
-Im Workshop werden die Teilnehmer Schritt für Schritt WebGIS-Anwendungen auf verschieden Wegen erstellen. Zum einen rein konfigurativ, zum anderen über Programmierung einer eigenen WebGIS-Applikation mit dem Wegue-Vue-Template (mittels EcmaScript und Vue.js und OpenLayers).
+Im Workshop werden die Teilnehmer Schritt für Schritt WebGIS-Anwendungen auf verschieden Wegen erstellen. Zum einen rein konfigurativ, zum anderen über Programmierung einer eigenen WebGIS-Applikation mit dem Wegue-Vue-Template (mittels JavaScript/EcmaScript und Vue.js und OpenLayers).
 Außerdem wird die Bereitstellung von Wegue mittels Docker gezeigt.
 
 [1] https://github.com/meggsimum/wegue
