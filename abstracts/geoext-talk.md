@@ -26,5 +26,5 @@ und die zukünftigen Entwicklungen beleuchtetet.
 [4] https://www.osgeo.org/projects/geoext/
 
 ## Status
-  - Eingereicht: Nein
+  - Eingereicht: Ja
   - Angenommen: Nein
