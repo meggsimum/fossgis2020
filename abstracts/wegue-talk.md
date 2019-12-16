@@ -16,4 +16,4 @@ Der Vortrag gibt einen kurzen Überblick über das Wegue-Ökosystem sowie die Ne
 
 ## Status
   - Eingereicht: Ja
-  - Angenommen: Nein
+  - Angenommen: Ja
